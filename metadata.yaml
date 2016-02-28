@@ -1,0 +1,39 @@
+_repo: The-Evolution-of-Man-Volume-2_6710
+contributor:
+  translator:
+    agent_name: McCabe, Joseph
+    aliases:
+    - Antony, Father
+    - Macabe, Joseph
+    - McCabe, Antony
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '521'
+    url: http://www.gutenberg.org/2009/agents/521
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
+creator:
+  author:
+    agent_name: Haeckel, Ernst
+    alias: Haeckel, Ernst Heinrich Philipp August
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '2037'
+    url: http://www.gutenberg.org/2009/agents/2037
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Embryology, Human'
+- !lcsh 'Anatomy, Comparative'
+- !lcsh 'Evolution'
+- !lcsh 'Human beings -- Origin'
+- !lcc 'QH'
+title: The Evolution of Man — Volume 2
+url: http://www.gutenberg.org/ebooks/6710
